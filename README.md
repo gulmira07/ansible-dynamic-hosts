@@ -1,1 +1,2 @@
-# ansible-dynamic-hosts
+# ansible-dynamic-hostname
+Ansible Playbooks to manage Dynamic Inventory Hostname
